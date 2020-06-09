@@ -16,4 +16,4 @@ this is a repo which I write some plan what I think recently.
   c. 周三 音视频编解码
   d. 周四 机器学习
   e. 周五 webgl
-3. 周末为休息日佛系读书 & 和小丽聊天
+3. 周末为休息日佛系读书 & ~~和小丽聊天~~ 算了吧，小丽不需要我
